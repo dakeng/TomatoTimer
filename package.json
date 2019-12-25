@@ -1,0 +1,22 @@
+{
+  "name": "tomatotimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakeng/TomatoTimer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakeng/TomatoTimer/issues"
+  },
+  "homepage": "https://github.com/dakeng/TomatoTimer#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
